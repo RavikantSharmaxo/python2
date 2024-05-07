@@ -37,4 +37,6 @@ class manager(developer):
     def addemp(self,emp):
         if emp is None:
             self.emp =emp
+def helloworld():
+    return "hii"
         
